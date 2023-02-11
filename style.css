@@ -23,6 +23,10 @@ nav a:hover{
 nav ul a:hover { 
  border-bottom: 1px solid #ea00fff1 ;
 }
+.navbar-toggler
+{
+    background-color: #ea00fff1;
+}
 .heading{
    font-size: 30px;
    justify-content: space-around;
@@ -122,3 +126,4 @@ footer {
     background: #303841;
     border-top: 4px solid #a3d4f5;
 }
+
