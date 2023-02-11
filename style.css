@@ -144,27 +144,3 @@ button.submit:hover{
     margin: 35px 0px 0px 15px;
 }
 }
-footer {
-    font-weight: 300;
-    display: flex;
-    justify-content: space-evenly;
-    padding: 2rem;
-    background: #303841;
-    border-top: 4px solid #a3d4f5;
-}
-
-footer>p {
-    margin: 2rem;
-    font-size: larger;
-}
-
-footer i {
-    vertical-align: middle;
-}
-
-@media (max-width: 500px) {
-    footer {
-        flex-direction: column;
-        text-align: center;
-    }
-}
