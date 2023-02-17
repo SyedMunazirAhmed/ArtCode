@@ -36,6 +36,7 @@ nav ul a:hover {
 ul li a.nav-link{
    padding-right: 15px;
 }
+
 .navbar-collapse{
    flex-grow: 0.5;
    
